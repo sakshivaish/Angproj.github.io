@@ -1,0 +1,60 @@
+.common-section1{
+	position: relative;
+	height: auto;
+}
+.common-section1 .common-overlay{
+	background: rgba(0,0,0,0.5);
+}
+
+.common-banner1{
+	background-image: url(src\assets\img\apoyo-about.jpg);
+}
+.common-section1 .common-banner1{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 250px;
+	opacity: 1.0275;
+}
+.common-banner1 header h1{
+	display: table-cell;
+    vertical-align: middle;
+    font-size: 3rem;
+    margin: 0;
+    color: #ffffff;
+    font-family: 'Abel', sans-serif;
+    font-weight: 900;
+    z-index: 50;
+}
+.common-section1 .common-banner1 header{
+	display: table;
+	height: 299px;
+}
+.home2-section{
+	padding: 60px 0 15px;
+}
+.home2-section p{
+	width: 83%;
+	margin: 0 auto;
+	text-align: center;
+}
+.common-styling p{
+	font-size: 1rem;
+	color: #636363;
+}
+.leadership-section{
+	padding: 45px 0 60px;
+}
+.text-center{
+	text-align: center;
+}
+.leadership-section header h1{
+	padding-bottom: 20px;
+}
+.leadership-section h3{
+	font-family: 'Abel', sans-serif;
+}
+.leadership-section h4{
+	font-family: 'Abel', sans-serif;
+	padding: 8px 0 15px;
+}
