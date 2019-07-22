@@ -1,0 +1,63 @@
+.common-section1{
+	position: relative;
+	height: auto;
+}
+.common-section1 .common-overlay{
+	background: rgba(0,0,0,0.5);
+}
+
+.common-banner1{
+	background-image: url(src\assets\img\apoyo-about.jpg);
+}
+.common-section1 .common-banner1{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 250px;
+	opacity: 1.0275;
+}
+.common-banner1 header h1{
+	display: table-cell;
+    vertical-align: middle;
+    font-size: 3rem;
+    margin: 0;
+    color: #ffffff;
+    font-family: 'Abel', sans-serif;
+    font-weight: 900;
+    z-index: 50;
+}
+.common-section1 .common-banner1 header{
+	display: table;
+	height: 299px;
+}
+.home2-section{
+	padding: 60px 0 15px;
+}
+.home2-section p{
+	width: 83%;
+	margin: 0 auto;
+	text-align: center;
+}
+.home-service-section .service-content p{
+	width: 90%;
+	
+}
+.service-img{
+	margin-top: 20px;
+}
+.serve-card{
+	margin-bottom: 60px;
+}
+.serve-card .service-content h3{
+	font-size: 1.25rem;
+    color: #032E46;
+    padding-bottom: 10px;
+}
+.know-more-btn{
+
+    font-size: 1rem;
+    color: #032E46;
+    margin-top: 15px;
+    transition: 300ms linear;
+
+}
